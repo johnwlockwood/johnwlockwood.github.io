@@ -23,7 +23,7 @@ backend_services/  distributed_computing/  data_processing/  ai/
 $ ./connect.sh
 > Available via:
 > - GitHub: https://github.com/johnwlockwood
-> - Twitter: @johnwlockwood
+> - X: @johnwlockwoodiv
 > - Email: johnwlockwood@gmail.com
 ```
 

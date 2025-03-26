@@ -22,5 +22,5 @@ $ ls ~/skills
 python.js  machine_learning.md  web_dev/  linux/  creativity.txt
 
 $ ./contact_me.sh
-> Available via GitHub, Twitter, or email
+> Available via GitHub, X, or email
 ```
