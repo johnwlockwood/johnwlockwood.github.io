@@ -61,17 +61,18 @@ a:hover {
   color: var(--accent-color);
 }
 
-/* Terminal-like elements */
-.terminal {
+/* Terminal command blocks */
+pre.terminal-command {
   background-color: #111;
   border: 1px solid var(--accent-color);
   border-radius: 4px;
   padding: 1rem;
   margin: 1rem 0;
   position: relative;
+  overflow-x: auto;
 }
 
-.terminal:before {
+pre.terminal-command:before {
   content: "Terminal";
   position: absolute;
   top: -10px;
@@ -80,6 +81,21 @@ a:hover {
   padding: 0 5px;
   font-size: 0.8rem;
   color: var(--accent-color);
+}
+
+/* Typewriter effect for headers */
+h2.typewriter {
+  display: inline-block;
+}
+
+/* General content styling */
+.post-content {
+  line-height: 1.6;
+}
+
+.post-content ul, 
+.post-content ol {
+  padding-left: 2rem;
 }
 
 /* Blinking cursor effect */
