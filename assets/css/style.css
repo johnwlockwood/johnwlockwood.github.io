@@ -1,0 +1,93 @@
+:root {
+  --bg-color: #0a0a0a;
+  --text-color: #0f0;
+  --accent-color: #00ff00;
+  --glow-color: rgba(0, 255, 0, 0.3);
+  --font-mono: 'Courier New', monospace;
+}
+
+body {
+  background-color: var(--bg-color);
+  color: var(--text-color);
+  font-family: var(--font-mono);
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+header {
+  border-bottom: 1px solid var(--accent-color);
+  margin-bottom: 2rem;
+  padding-bottom: 1rem;
+}
+
+h1, h2, h3 {
+  color: var(--accent-color);
+  text-shadow: 0 0 5px var(--glow-color);
+}
+
+a {
+  color: var(--accent-color);
+  text-decoration: none;
+  transition: text-shadow 0.3s;
+}
+
+a:hover {
+  text-shadow: 0 0 5px var(--glow-color);
+}
+
+.post-list {
+  list-style: none;
+  padding: 0;
+}
+
+.post-list li {
+  margin-bottom: 1rem;
+  position: relative;
+  padding-left: 1.5rem;
+}
+
+.post-list li:before {
+  content: ">";
+  position: absolute;
+  left: 0;
+  color: var(--accent-color);
+}
+
+/* Terminal-like elements */
+.terminal {
+  background-color: #111;
+  border: 1px solid var(--accent-color);
+  border-radius: 4px;
+  padding: 1rem;
+  margin: 1rem 0;
+  position: relative;
+}
+
+.terminal:before {
+  content: "Terminal";
+  position: absolute;
+  top: -10px;
+  left: 10px;
+  background: var(--bg-color);
+  padding: 0 5px;
+  font-size: 0.8rem;
+  color: var(--accent-color);
+}
+
+/* Blinking cursor effect */
+@keyframes blink {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0; }
+}
+
+.cursor {
+  animation: blink 1s step-end infinite;
+}
