@@ -11,7 +11,7 @@ categories: science physics visualization
 $ ./project_info.sh
 Project: Relativity-Spacetime Visualization
 Repo: https://github.com/johnwlockwood/relativity-spacetime
-Demo: https://johnwlockwood.github.io/relativity-spacetime/
+Demo: https://relativity-spacetime.netlify.app
 ```
 
 ```terminal-command
@@ -37,7 +37,7 @@ This project visualizes key concepts from Einstein's theory of relativity:
 
 ## Try It Out
 
-Visit the [live demo](https://johnwlockwood.github.io/relativity-spacetime/) to explore the visualization.
+Visit the [live demo](https://relativity-spacetime.netlify.app) to explore the visualization.
 
 ```terminal-command
 $ git clone https://github.com/johnwlockwood/relativity-spacetime.git
