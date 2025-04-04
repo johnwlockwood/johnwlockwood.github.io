@@ -43,17 +43,6 @@ a:hover {
   text-shadow: 0 0 5px var(--glow-color);
 }
 
-/* Visited links */
-a:visited {
-  color: #00cc00; /* Slightly darker green */
-}
-
-/* Focused links (for keyboard navigation) */
-a:focus {
-  outline: 1px dashed var(--accent-color);
-  outline-offset: 2px;
-}
-
 .post-list {
   list-style: none;
   padding: 0;
