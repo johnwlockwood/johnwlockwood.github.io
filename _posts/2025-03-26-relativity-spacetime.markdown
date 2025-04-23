@@ -5,14 +5,6 @@ date: 2025-03-26 00:00:00 -0700
 categories: science physics visualization
 ---
 
-## System Info
-
-```
-Project: Relativity-Spacetime Visualization
-Repo: https://github.com/johnwlockwood/relativity-spacetime
-Demo: https://relativity-spacetime.netlify.app
-```
-
 ## Project Overview
 
 This project visualizes key concepts from Einstein's theory of relativity:
@@ -31,3 +23,4 @@ This project visualizes key concepts from Einstein's theory of relativity:
 
 Visit the [live demo](https://relativity-spacetime.netlify.app) to explore the visualization.
 
+Site source at [Github](https://github.com/johnwlockwood/relativity-spacetime)
