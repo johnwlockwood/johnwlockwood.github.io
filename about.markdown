@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-John Lockwood is a software engineer in Northern California. 
-Specialties:
- * Backend services
- * Distributed computing and data processing
+John Lockwood grew up in rural Vermont and lives in Northern California. 
+He's into software engineering, acro yoga/partnered acrobatics, surfing and paddleboarding.
 
