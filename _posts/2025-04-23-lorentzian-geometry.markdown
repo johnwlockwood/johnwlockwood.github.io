@@ -5,7 +5,7 @@ date: 2025-04-23 00:00:00 -0700
 categories: science physics visualization
 ---
 
-# Unraveling Time and Space: Introducing Our Lorentzian Geometry Website
+# Unraveling Time and Space: Introducing The [Lorentzian Geometry Website](https://lorentzian-geometry.netlify.app/)
 
 Ever since my high school physics class, I’ve been hooked on the wild ideas of special relativity. Picture a spaceship screaming through a tunnel at near-light speed, its clocks ticking slower than those back on Earth. It’s the kind of thought experiment that flips your understanding of time and space upside down. Years later, inspired by physicist Richard Muller’s *Descriptive Physics* and his mind-bending book *Now*, I set out to build a website that makes these slippery concepts not just understandable but *fun* to explore. Welcome to our Lorentzian Geometry Website—a place to dive into the weird, wonderful world of spacetime.
 
@@ -13,7 +13,7 @@ Ever since my high school physics class, I’ve been hooked on the wild ideas of
 
 Special relativity isn’t just for physicists; it’s a window into how the universe works. My young nephew once blew my mind when he said, “Everything moves at the same speed in the universe.” He’d watched a YouTube video explaining four-velocity: if something’s zooming through space (like a spaceship), its “time velocity” slows down. At rest? You’re cruising at full speed through time. A photon at light speed? Zero time velocity. This idea, rooted in the math of **Lorentzian geometry**, is what makes relativity tick—and it’s what this site is all about.
 
-But let’s be real: relativity can feel like a cosmic puzzle. That’s why I built this site to break it down through interactive tools that let you *see* and *feel* how time and space shift. Whether you’re a student wrestling with Einstein’s equations, a curious soul chasing cosmic truths, or just wondering why time slows for a speeding spaceship, this site is for you.
+But let’s be real: relativity can feel like a cosmic puzzle. That’s why I built [Lorentzian Geometry](https://lorentzian-geometry.netlify.app/) to break it down through interactive tools that let you *see* and *feel* how time and space shift. Whether you’re a student wrestling with Einstein’s equations, a curious soul chasing cosmic truths, or just wondering why time slows for a speeding spaceship, this site is for you.
 
 ## Explore the Tools
 
